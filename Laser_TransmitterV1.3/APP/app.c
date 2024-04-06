@@ -15,6 +15,9 @@
 #include "adc.h"
 #include "mytimer2.h"
 
+//≤‚ ‘GIT‘∂≥Ã≤÷ø‚
+unsigned char git = 1;
+
 
 static void AppInfo_Init(void);
 //static void Set_LightSize(unsigned char size);
