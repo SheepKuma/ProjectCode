@@ -17,6 +17,8 @@
 
 //≤‚ ‘GIT‘∂≥Ã≤÷ø‚
 unsigned char git = 1;
+//‘Ÿ≤‚ ‘¿≠»°
+unsigned char pull = 1;
 
 
 static void AppInfo_Init(void);
