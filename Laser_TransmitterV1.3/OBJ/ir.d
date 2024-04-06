@@ -2,7 +2,7 @@
 ..\obj\ir.o: ..\SYSTEM\sys\sys.h
 ..\obj\ir.o: ..\USER\stm32f10x.h
 ..\obj\ir.o: ..\CORE\core_cm3.h
-..\obj\ir.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\ir.o: C:\KeilV518\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\ir.o: ..\USER\system_stm32f10x.h
 ..\obj\ir.o: ..\USER\stm32f10x_conf.h
 ..\obj\ir.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
@@ -32,10 +32,10 @@
 ..\obj\ir.o: ..\HARDWARE\IR\ir.h
 ..\obj\ir.o: ..\SYSTEM\delay\delay.h
 ..\obj\ir.o: ..\SYSTEM\usart\usart.h
-..\obj\ir.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\ir.o: C:\KeilV518\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\ir.o: ..\APP\app.h
 ..\obj\ir.o: ..\HARDWARE\E2PROM\e2prom.h
-..\obj\ir.o: D:\MDK5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\ir.o: C:\KeilV518\ARM\ARMCC\Bin\..\include\string.h
 ..\obj\ir.o: ..\HARDWARE\TIMER\mytimer.h
 ..\obj\ir.o: ..\HARDWARE\BLE_USART\ble_usart.h
 ..\obj\ir.o: ..\HARDWARE\MOTOR_MS3111S\motor_ms3111s.h

@@ -2,7 +2,7 @@
 ..\obj\main.o: ..\SYSTEM\sys\sys.h
 ..\obj\main.o: ..\USER\stm32f10x.h
 ..\obj\main.o: ..\CORE\core_cm3.h
-..\obj\main.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\main.o: C:\KeilV518\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\main.o: ..\USER\system_stm32f10x.h
 ..\obj\main.o: ..\USER\stm32f10x_conf.h
 ..\obj\main.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
@@ -33,7 +33,7 @@
 ..\obj\main.o: ..\SYSTEM\delay\delay.h
 ..\obj\main.o: ..\HARDWARE\KEY\key.h
 ..\obj\main.o: ..\SYSTEM\usart\usart.h
-..\obj\main.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\main.o: C:\KeilV518\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\main.o: ..\HARDWARE\IR\ir.h
 ..\obj\main.o: ..\APP\app.h
 ..\obj\main.o: ..\HARDWARE\EXIT\exit.h
@@ -41,7 +41,7 @@
 ..\obj\main.o: ..\HARDWARE\ADC\adc.h
 ..\obj\main.o: ..\HARDWARE\BLE_USART\ble_usart.h
 ..\obj\main.o: ..\HARDWARE\OLED\oled.h
-..\obj\main.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\main.o: C:\KeilV518\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\obj\main.o: ..\HARDWARE\OLED\oled_bmp.h
 ..\obj\main.o: ..\HARDWARE\MOTOR_MS3111S\motor_ms3111s.h
 ..\obj\main.o: ..\HARDWARE\STEPPER_MOTOR\stepper_motor.h

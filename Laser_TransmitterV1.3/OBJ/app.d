@@ -2,7 +2,7 @@
 ..\obj\app.o: ..\SYSTEM\sys\sys.h
 ..\obj\app.o: ..\USER\stm32f10x.h
 ..\obj\app.o: ..\CORE\core_cm3.h
-..\obj\app.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\app.o: C:\KeilV518\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\app.o: ..\USER\system_stm32f10x.h
 ..\obj\app.o: ..\USER\stm32f10x_conf.h
 ..\obj\app.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
@@ -35,11 +35,11 @@
 ..\obj\app.o: ..\HARDWARE\IR\ir.h
 ..\obj\app.o: ..\HARDWARE\BLE_USART\ble_usart.h
 ..\obj\app.o: ..\SYSTEM\usart\usart.h
-..\obj\app.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\app.o: C:\KeilV518\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\app.o: ..\HARDWARE\E2PROM\e2prom.h
 ..\obj\app.o: ..\SYSTEM\delay\delay.h
 ..\obj\app.o: ..\HARDWARE\OLED\oled.h
-..\obj\app.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\app.o: C:\KeilV518\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\obj\app.o: ..\HARDWARE\TIMER\mytimer.h
 ..\obj\app.o: ..\HARDWARE\MOTOR_MS3111S\motor_ms3111s.h
 ..\obj\app.o: ..\HARDWARE\STEPPER_MOTOR\stepper_motor.h

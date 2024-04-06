@@ -17,6 +17,8 @@
 #include "beep.h"
 
 
+//²âÊÔÒ»ÏÂGIT
+unsigned char git_test = 0;
  int main(void)
  {
 	 SystemInit();

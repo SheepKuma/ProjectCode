@@ -2,7 +2,7 @@
 ..\obj\ble_usart.o: ..\SYSTEM\sys\sys.h
 ..\obj\ble_usart.o: ..\USER\stm32f10x.h
 ..\obj\ble_usart.o: ..\CORE\core_cm3.h
-..\obj\ble_usart.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\ble_usart.o: C:\KeilV518\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\ble_usart.o: ..\USER\system_stm32f10x.h
 ..\obj\ble_usart.o: ..\USER\stm32f10x_conf.h
 ..\obj\ble_usart.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
@@ -31,6 +31,6 @@
 ..\obj\ble_usart.o: ..\STM32F10x_FWLib\inc\misc.h
 ..\obj\ble_usart.o: ..\HARDWARE\BLE_USART\ble_usart.h
 ..\obj\ble_usart.o: ..\SYSTEM\usart\usart.h
-..\obj\ble_usart.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\ble_usart.o: C:\KeilV518\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\ble_usart.o: ..\APP\app.h
-..\obj\ble_usart.o: D:\MDK5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\ble_usart.o: C:\KeilV518\ARM\ARMCC\Bin\..\include\string.h

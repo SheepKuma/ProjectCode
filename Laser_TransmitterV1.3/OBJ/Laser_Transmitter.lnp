@@ -32,6 +32,6 @@
 "..\obj\stm32f10x_pwr.o"
 "..\obj\app.o"
 --strict --scatter "..\OBJ\Laser_Transmitter.sct"
---summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers
 --list ".\Laser_Transmitter.map" -o ..\OBJ\Laser_Transmitter.axf

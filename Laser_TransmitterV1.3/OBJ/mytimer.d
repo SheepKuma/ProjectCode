@@ -2,7 +2,7 @@
 ..\obj\mytimer.o: ..\SYSTEM\sys\sys.h
 ..\obj\mytimer.o: ..\USER\stm32f10x.h
 ..\obj\mytimer.o: ..\CORE\core_cm3.h
-..\obj\mytimer.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\mytimer.o: C:\KeilV518\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\mytimer.o: ..\USER\system_stm32f10x.h
 ..\obj\mytimer.o: ..\USER\stm32f10x_conf.h
 ..\obj\mytimer.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h

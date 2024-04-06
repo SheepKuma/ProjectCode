@@ -2,7 +2,7 @@
 ..\obj\e2prom.o: ..\SYSTEM\sys\sys.h
 ..\obj\e2prom.o: ..\USER\stm32f10x.h
 ..\obj\e2prom.o: ..\CORE\core_cm3.h
-..\obj\e2prom.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\e2prom.o: C:\KeilV518\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\e2prom.o: ..\USER\system_stm32f10x.h
 ..\obj\e2prom.o: ..\USER\stm32f10x_conf.h
 ..\obj\e2prom.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h

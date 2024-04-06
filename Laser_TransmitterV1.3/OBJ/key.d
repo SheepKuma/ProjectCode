@@ -1,7 +1,7 @@
 ..\obj\key.o: ..\HARDWARE\KEY\key.c
 ..\obj\key.o: ..\USER\stm32f10x.h
 ..\obj\key.o: ..\CORE\core_cm3.h
-..\obj\key.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\key.o: C:\KeilV518\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\key.o: ..\USER\system_stm32f10x.h
 ..\obj\key.o: ..\USER\stm32f10x_conf.h
 ..\obj\key.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
@@ -33,4 +33,4 @@
 ..\obj\key.o: ..\SYSTEM\delay\delay.h
 ..\obj\key.o: ..\HARDWARE\TIMER\mytimer.h
 ..\obj\key.o: ..\SYSTEM\usart\usart.h
-..\obj\key.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\key.o: C:\KeilV518\ARM\ARMCC\Bin\..\include\stdio.h

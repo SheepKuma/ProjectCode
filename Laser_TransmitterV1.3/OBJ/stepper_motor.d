@@ -2,7 +2,7 @@
 ..\obj\stepper_motor.o: ..\SYSTEM\sys\sys.h
 ..\obj\stepper_motor.o: ..\USER\stm32f10x.h
 ..\obj\stepper_motor.o: ..\CORE\core_cm3.h
-..\obj\stepper_motor.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\stepper_motor.o: C:\KeilV518\ARM\ARMCC\Bin\..\include\stdint.h
 ..\obj\stepper_motor.o: ..\USER\system_stm32f10x.h
 ..\obj\stepper_motor.o: ..\USER\stm32f10x_conf.h
 ..\obj\stepper_motor.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
@@ -31,6 +31,6 @@
 ..\obj\stepper_motor.o: ..\STM32F10x_FWLib\inc\misc.h
 ..\obj\stepper_motor.o: ..\HARDWARE\STEPPER_MOTOR\stepper_motor.h
 ..\obj\stepper_motor.o: ..\SYSTEM\usart\usart.h
-..\obj\stepper_motor.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\stepper_motor.o: C:\KeilV518\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\stepper_motor.o: ..\SYSTEM\delay\delay.h
 ..\obj\stepper_motor.o: ..\APP\app.h
